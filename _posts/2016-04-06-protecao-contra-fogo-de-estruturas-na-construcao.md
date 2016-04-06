@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Argamassas projetadas são os materiais mais utilizados em todo o mundo para a proteção passiva contra fogo de estruturas metálicas, pois reúnem as maiores vantagens técnicas e os menores custos para todas as situações onde as estruturas não estejam aparentes, como vigamentos ocultos sobre forros ou pilares com acabamentos arquitetônicos.\_"
-datePublished: '2016-04-06T20:15:02.442Z'
-dateModified: '2016-04-06T20:14:44.217Z'
+datePublished: '2016-04-06T20:16:38.873Z'
+dateModified: '2016-04-06T20:15:37.693Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-06-protecao-contra-fogo-de-estruturas-na-construcao.md
