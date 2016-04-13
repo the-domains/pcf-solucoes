@@ -4,7 +4,7 @@
         <description><![CDATA[PCF Soluções]]></description>
         <link>https://thegrid.ai/pcf-solucoes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 20:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 23:34:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pcf-solucoes/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/pcf-solucoes/a-pcf/index.html</link>
             <guid isPermaLink="false">011d637e-4b7c-44b7-902d-d4a76e1794d6</guid>
             <pubDate>Wed, 06 Apr 2016 19:13:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9454964-fea9-4c0f-b8ac-564e852cf759.jpg">]]></description>
+            <link>https://thegrid.ai/pcf-solucoes/a-pcf-solucoes-e-composta-por-profissionais-com-30-anos-de-a/index.html</link>
+            <guid isPermaLink="false">8a9f6143-85eb-4663-bf46-23725ed371b7</guid>
+            <pubDate>Wed, 13 Apr 2016 23:34:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
